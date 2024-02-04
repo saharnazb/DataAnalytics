@@ -6,3 +6,4 @@
 ## Course description ##
 
 Welcome to Data Analytics course! 
+**The course is under construction**
