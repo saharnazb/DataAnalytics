@@ -11,7 +11,9 @@ This course aims to equip economics and business students with practical data an
 
 ## Course Materials and Textbooks ##
 James, G., Witten, D., Hastie T., Tibshirani, R., and Taylor, J., Introduction to Statistical Learning (R and Python). Available online at https://www.statlearning.com/
+
 William G. Zikmund, Barry J. Babin, Jon C. Carr, and Mitch Griffin, Business Research Methods, 9th Edition, 2013. Available on Amazon at https://a.co/d/dy399DB
+
 Lecture slides and notes will be accessible on the course website. 
 ### Additional Resources:
 Chaubey, V., The Little Book of Research Writing, 2017. Available on Amazon at https://a.co/d/041jwOu 
