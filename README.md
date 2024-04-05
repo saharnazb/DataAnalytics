@@ -17,7 +17,9 @@ William G. Zikmund, Barry J. Babin, Jon C. Carr, and Mitch Griffin, Business Res
 Lecture slides and notes will be accessible on the course website. 
 ### Additional Resources:
 Chaubey, V., The Little Book of Research Writing, 2017. Available on Amazon at https://a.co/d/041jwOu 
+
 VanderPlas, J., Python Data Science Handbook: Essential Tools for Working with Data, O’Reilly Media, 2016. Available on Amazon and at https://jakevdp.github.io/PythonDataScienceHandbook/
+
 Grolemund, G. and Wickham, H. R for Data Science, O’Reilly Media, 2017. Available on Amazon and at http://r4ds.had.co.nz/
 
 ## Course Structure ##
